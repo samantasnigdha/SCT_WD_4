@@ -12,3 +12,5 @@ A simple and efficient To-Do List Application built using HTML, CSS, and JavaScr
   🔹HTML :- Structure and layout of the app
   🔹CSS :- Styling for an intuitive and responsive design
   🔹JavaScript :- Handles task management functionalities
+
+![image alt](https://github.com/snigdha-samanta/SCT_WD_4/blob/main/Screenshot%202025-02-15%20203456.png?raw=true)
